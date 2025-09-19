@@ -1,9 +1,8 @@
-langchain-mistralai==0.1.2
-langchain-huggingface==0.0.5
-python-dotenv==1.0.0
-pydantic==2.5.0
-flask==2.3.3
-flask-cors==4.0.0
+langchain-mistralai
+langchain-huggingface
+pydantic
+flask
+flask-cors
 # LangChain Core
 langchain
 langchain-core
